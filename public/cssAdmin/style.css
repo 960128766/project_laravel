@@ -1,0 +1,12 @@
+input[type=text] {
+    border: 2px inset gray;
+}
+input[type=file] {
+    border: 2px inset gray;
+    box-sizing: border-box;
+}
+textarea {
+    border: 2px inset gray !important;
+    resize: none;
+    height: 150px;
+}
